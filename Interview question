@@ -1,6 +1,11 @@
 1. What is DWDM (Dense Wavelength Division Multiplexing)?
 Answer:
-DWDM (Dense Wavelength Division Multiplexing) is a technology used in optical fiber communication systems to increase the bandwidth of fiber networks by multiplexing multiple optical signals onto a single fiber. Each signal is carried on a different wavelength, which allows for simultaneous transmission of multiple data streams. This technique is particularly useful for long-distance and high-capacity networks. DWDM can provide high data rates ranging from 10 Gbps to 100 Gbps per wavelength, and with channel spacings as tight as 0.8 nm or 0.4 nm, it allows for a large number of channels to be multiplexed together.
+DWDM (Dense Wavelength Division Multiplexing) is a technology used in optical fiber communication systems 
+to increase the bandwidth of fiber networks by multiplexing multiple optical signals onto a single fiber. 
+Each signal is carried on a different wavelength, which allows for simultaneous transmission of 
+multiple data streams. This technique is particularly useful for long-distance and high-capacity networks. 
+DWDM can provide high data rates ranging from 10 Gbps to 100 Gbps per wavelength, and with channel spacings as 
+tight as 0.8 nm or 0.4 nm, it allows for a large number of channels to be multiplexed together.
 
 2. How does DWDM increase the capacity of fiber optic networks?
 Answer:
